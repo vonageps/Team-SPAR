@@ -1,4 +1,4 @@
-# pshackathon-team4
+# pshackathon-team4 (SPARIOR)
 
 **Please install below libraries to run this application.**
 
